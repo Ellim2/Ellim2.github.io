@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">판정을 다음 행동으로 바꾸는 흐름도</title>
+  <desc id="desc">관찰된 사건에서 본질 단정을 피하고, 기대와 조건 및 증거를 확인한 뒤 조정 가능한 다음 행동을 선택하는 과정.</desc>
+  <rect width="1200" height="720" fill="#f7f6f2"/>
+  <rect x="58" y="54" width="1084" height="92" rx="18" fill="#17324d"/>
+  <text x="102" y="98" fill="#f7f6f2" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="26" font-weight="700">좋은 기준은 사람을 판정하지 않고, 다음 행동을 바꾼다</text>
+  <text x="102" y="125" fill="#c9d7e2" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="17">사건 → 확인 → 조정의 흐름을 분리하면 책임은 남고, 개선의 정보도 남는다.</text>
+  <g font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+    <rect x="70" y="223" width="205" height="156" rx="18" fill="#dbe9e2" stroke="#30755c" stroke-width="2"/>
+    <text x="96" y="270" fill="#173d31" font-size="17" font-weight="700">1 · 관찰된 사건</text>
+    <text x="96" y="305" fill="#173d31" font-size="23" font-weight="700">무엇이 일어났나?</text>
+    <text x="96" y="338" fill="#355648" font-size="16">완료 여부 · 오류 · 시간</text>
+    <text x="96" y="362" fill="#355648" font-size="16">확인 가능한 사실만</text>
+    <rect x="340" y="223" width="240" height="156" rx="18" fill="#f5e8c6" stroke="#b78123" stroke-width="2"/>
+    <text x="366" y="270" fill="#654610" font-size="17" font-weight="700">2 · 기준과 증거</text>
+    <text x="366" y="305" fill="#654610" font-size="23" font-weight="700">무엇을 기대했나?</text>
+    <text x="366" y="338" fill="#795a1e" font-size="16">약속한 결과 · 완료 조건</text>
+    <text x="366" y="362" fill="#795a1e" font-size="16">추측과 사실을 분리</text>
+    <rect x="645" y="223" width="240" height="156" rx="18" fill="#e5e1f0" stroke="#695b9b" stroke-width="2"/>
+    <text x="671" y="270" fill="#40366b" font-size="17" font-weight="700">3 · 조건 확인</text>
+    <text x="671" y="305" fill="#40366b" font-size="23" font-weight="700">무엇이 영향을 줬나?</text>
+    <text x="671" y="338" fill="#554b78" font-size="16">정보 · 권한 · 의존성</text>
+    <text x="671" y="362" fill="#554b78" font-size="16">시간 · 환경 · 반복 신호</text>
+    <rect x="950" y="223" width="180" height="156" rx="18" fill="#f3dede" stroke="#a74d58" stroke-width="2"/>
+    <text x="976" y="270" fill="#742e37" font-size="17" font-weight="700">피할 경로</text>
+    <text x="976" y="310" fill="#742e37" font-size="21" font-weight="700">사람의 본질로</text>
+    <text x="976" y="339" fill="#742e37" font-size="21" font-weight="700">즉시 단정</text>
+    <text x="976" y="363" fill="#8b4b50" font-size="14">다음 행동 정보가 사라짐</text>
+    <path d="M275 301H322" stroke="#567" stroke-width="3"/><path d="M310 290l14 11-14 11" fill="none" stroke="#567" stroke-width="3"/>
+    <path d="M580 301H627" stroke="#567" stroke-width="3"/><path d="M615 290l14 11-14 11" fill="none" stroke="#567" stroke-width="3"/>
+    <path d="M885 301H932" stroke="#a74d58" stroke-width="3" stroke-dasharray="8 8"/><path d="M920 290l14 11-14 11" fill="none" stroke="#a74d58" stroke-width="3"/>
+    <path d="M765 390V470" stroke="#567" stroke-width="3"/><path d="M754 458l11 14 11-14" fill="none" stroke="#567" stroke-width="3"/>
+    <rect x="278" y="490" width="684" height="154" rx="20" fill="#17324d"/>
+    <text x="324" y="536" fill="#a7d7c5" font-size="17" font-weight="700">4 · 조정 가능한 다음 행동</text>
+    <text x="324" y="578" fill="#fff" font-size="26" font-weight="700">다음 시도에서 바꿀 한 가지를 선택한다</text>
+    <text x="324" y="614" fill="#c9d7e2" font-size="17">약속의 크기 · 시작 방식 · 점검 시점 · 도움 요청 · 검증 방법</text>
+  </g>
+</svg>
