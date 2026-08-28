@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">없음을 말할 수 있는 관찰의 경계</title>
+  <desc id="desc">짙은 청색 배경 위에 밝게 관찰된 원과 점선으로 표시된 미확인 영역, 그리고 기록 카드가 놓인 편집 도해.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a2d"/><stop offset="1" stop-color="#263752"/></linearGradient>
+    <radialGradient id="field"><stop stop-color="#7ec8c4" stop-opacity=".34"/><stop offset=".65" stop-color="#416f88" stop-opacity=".15"/><stop offset="1" stop-color="#416f88" stop-opacity="0"/></radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f0e5"/><stop offset="1" stop-color="#dce8e4"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#07101e" flood-opacity=".48"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="855" cy="463" r="410" fill="url(#field)"/>
+  <circle cx="855" cy="463" r="285" fill="#28536b" fill-opacity=".52" stroke="#a8ddd3" stroke-width="3"/>
+  <circle cx="855" cy="463" r="355" fill="none" stroke="#7797b2" stroke-width="3" stroke-dasharray="10 17" opacity=".75"/>
+  <circle cx="855" cy="463" r="205" fill="none" stroke="#d4eee6" stroke-width="2" opacity=".5"/>
+  <g fill="#d7f1e9"><circle cx="750" cy="350" r="8"/><circle cx="970" cy="385" r="8"/><circle cx="895" cy="590" r="8"/></g>
+  <g stroke="#d7f1e9" stroke-width="3" stroke-linecap="round" opacity=".82"><path d="M750 350l72 76M970 385l-76 54M895 590l-30-90"/></g>
+  <g filter="url(#shadow)" transform="translate(174 268) rotate(-5)">
+    <rect width="395" height="267" rx="22" fill="url(#card)"/>
+    <rect x="37" y="36" width="104" height="16" rx="8" fill="#c98b53"/>
+    <path d="M37 94h252M37 132h304M37 170h217" stroke="#526b7d" stroke-width="12" stroke-linecap="round" opacity=".85"/>
+    <path d="M37 221h108" stroke="#789c99" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="341" cy="209" r="31" fill="#21445c"/>
+    <path d="M327 210l10 11 21-27" fill="none" stroke="#d9f1e9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+    <text x="112" y="112" fill="#d7a46e" font-size="20" font-weight="700" letter-spacing="3">THOUGHT NOTE</text>
+    <text x="112" y="173" fill="#f3f0e9" font-size="45" font-weight="700">‘없었다’는 말에도 확인한 범위가 필요하다</text>
+    <text x="112" y="218" fill="#b8cadd" font-size="23">침묵은 빈말이 아니라, 관찰 가능한 경계를 가진 기록이다.</text>
+    <text x="655" y="826" fill="#b9d7d7" font-size="19">확인한 범위</text>
+    <text x="1124" y="695" fill="#8da9c0" font-size="18">아직 확인하지 못한 영역</text>
+  </g>
+</svg>
