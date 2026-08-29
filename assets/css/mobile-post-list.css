@@ -1,0 +1,10 @@
+/*
+ * 홈 기록 목록의 모바일 레이아웃 보정.
+ * 데스크톱 3열 규칙보다 나중에 읽혀 모바일에서 본문 폭을 보장한다.
+ */
+@media (max-width: 760px) {
+  .writing-index-list .post-row > a,
+  .writing-index-list .post-row:first-child > a {
+    grid-template-columns: minmax(0, 1fr) 20px;
+  }
+}
