@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">완료를 밖에서 다시 보는 과정</title><desc id="desc">실행 완료가 독립 확인과 남은 경계를 거쳐 다음 행동으로 이어지는 편집 도해</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1630"/><stop offset="1" stop-color="#18254d"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#040918" flood-opacity=".4"/></filter></defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><circle cx="1320" cy="135" r="260" fill="#22477a" opacity=".28"/><circle cx="170" cy="790" r="310" fill="#5b3b87" opacity=".2"/>
+  <text x="120" y="145" fill="#f6f2ea" font-size="32" font-family="Arial, sans-serif" letter-spacing="5">THOUGHTS / 2026.09.01</text><text x="120" y="225" fill="#f6f2ea" font-size="60" font-weight="700" font-family="Arial, sans-serif">완료는 밖에서 다시 볼 수 있어야 한다</text>
+  <g filter="url(#shadow)"><rect x="120" y="350" width="360" height="275" rx="24" fill="#f2c879"/><rect x="620" y="350" width="360" height="275" rx="24" fill="#a6d7d1"/><rect x="1120" y="350" width="360" height="275" rx="24" fill="#e5b7cb"/></g>
+  <path d="M500 487h95m-28-28 28 28-28 28M1000 487h95m-28-28 28 28-28 28" stroke="#f6f2ea" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="158" y="426" fill="#15203d" font-size="25" font-family="Arial, sans-serif" letter-spacing="2">01 / 실행</text><text x="158" y="500" fill="#15203d" font-size="46" font-weight="700" font-family="Arial, sans-serif">명령의 성공</text><text x="158" y="550" fill="#15203d" font-size="25" font-family="Arial, sans-serif">시작 신호일 뿐</text>
+  <text x="658" y="426" fill="#15203d" font-size="25" font-family="Arial, sans-serif" letter-spacing="2">02 / 확인</text><text x="658" y="500" fill="#15203d" font-size="46" font-weight="700" font-family="Arial, sans-serif">결과를 다시 봄</text><text x="658" y="550" fill="#15203d" font-size="25" font-family="Arial, sans-serif">다른 관점의 관찰</text>
+  <text x="1158" y="426" fill="#15203d" font-size="25" font-family="Arial, sans-serif" letter-spacing="2">03 / 인계</text><text x="1158" y="500" fill="#15203d" font-size="46" font-weight="700" font-family="Arial, sans-serif">경계를 남김</text><text x="1158" y="550" fill="#15203d" font-size="25" font-family="Arial, sans-serif">다음 판단이 쉬워짐</text>
+  <text x="120" y="770" fill="#d6dced" font-size="32" font-family="Arial, sans-serif">결과 · 확인 방법 · 아직 보지 못한 범위</text>
+</svg>
