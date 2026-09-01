@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">디자인 QA 증거가 Pull Request에 남는 흐름</title><desc id="desc">데스크톱과 모바일 로컬 화면이 검증 묶음을 거쳐 Pull Request의 스크린샷 섹션으로 연결되는 도해</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1731"/><stop offset="1" stop-color="#26355d"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#020614" flood-opacity=".4"/></filter></defs>
+<rect width="1600" height="900" fill="url(#bg)"/><circle cx="1420" cy="150" r="270" fill="#6e508f" opacity=".3"/><circle cx="155" cy="820" r="280" fill="#177382" opacity=".2"/>
+<text x="115" y="125" fill="#c9d7ec" font-size="26" font-family="Arial, sans-serif" letter-spacing="5">WORK LOG / QA EVIDENCE</text><text x="115" y="205" fill="#fff9ef" font-size="58" font-weight="700" font-family="Arial, sans-serif">검증 이미지는 PR 안에 남는다</text>
+<g filter="url(#s)"><rect x="115" y="330" width="360" height="275" rx="26" fill="#f0cb80"/><rect x="620" y="330" width="360" height="275" rx="26" fill="#a9d8cf"/><rect x="1125" y="330" width="360" height="275" rx="26" fill="#ebb7c7"/></g>
+<path d="M495 467h96m-29-29 29 29-29 29M1000 467h96m-29-29 29 29-29 29" fill="none" stroke="#f9f2e6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="155" y="405" fill="#1c2944" font-size="23" font-family="Arial, sans-serif" letter-spacing="3">LOCAL VIEW</text><text x="155" y="482" fill="#1c2944" font-size="43" font-weight="700" font-family="Arial, sans-serif">데스크톱 · 모바일</text><text x="155" y="530" fill="#1c2944" font-size="24" font-family="Arial, sans-serif">실제 화면을 캡처</text>
+<text x="660" y="405" fill="#1c2944" font-size="23" font-family="Arial, sans-serif" letter-spacing="3">VERIFY</text><text x="660" y="482" fill="#1c2944" font-size="43" font-weight="700" font-family="Arial, sans-serif">형식 · 응답 · 크기</text><text x="660" y="530" fill="#1c2944" font-size="24" font-family="Arial, sans-serif">무엇을 봤는지 명시</text>
+<text x="1165" y="405" fill="#1c2944" font-size="23" font-family="Arial, sans-serif" letter-spacing="3">PULL REQUEST</text><text x="1165" y="482" fill="#1c2944" font-size="43" font-weight="700" font-family="Arial, sans-serif">검증 이미지 포함</text><text x="1165" y="530" fill="#1c2944" font-size="24" font-family="Arial, sans-serif">변경과 함께 보존</text>
+<text x="115" y="760" fill="#d7e0f1" font-size="34" font-family="Arial, sans-serif">코드 차이와 화면 결과를 같은 검토 경로에 남긴다.</text>
+</svg>
